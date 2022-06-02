@@ -7,6 +7,22 @@ Bu repo www.kodluyoruz.org Front-End Eğitiminde oluşturduğumuz ilk repo. İç
 
 `git clone https://github.com/fatihcann/kodluyoruzilkrepo`
 
+# Usage
 
+Projeyi klonladıktan sonra Visual Studio Code programını açınız.
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Linux için:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
+
+# Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için lütfen neyi değiştirmek istediğinizi belirten bir konu açın.
+
+# Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
